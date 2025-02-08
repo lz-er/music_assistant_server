@@ -1,3 +1,5 @@
+fixed: https://github.com/music-assistant/server/blob/114d42fee9edcd9ed4743e53247a381f4e04b9b1/music_assistant/controllers/player_queues.py#L1112
+
 Music Assistant
 ==================================
 
